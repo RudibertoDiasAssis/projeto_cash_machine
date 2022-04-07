@@ -1,0 +1,16 @@
+{
+  "name": "projeto_cash_machine",
+  "version": "1.0.0",
+  "description": "Banking ATM System Simulator with Node JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Rudiberto Dias Assis - rudibertodiasassis@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.2"
+  }
+}
